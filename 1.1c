@@ -1,4 +1,7 @@
+    
 /*
+// g++ oneOfOne.c -o oneOfOne
+// ./oneOfOne
 Jump to line 61:1 to start 
 
 Main Funtion
@@ -74,3 +77,4 @@ crashCourse();
 // testDataType1_1(DataType1_1());                                
     return 0; // returns 0 to tell program to terminate, one will contuine on doing nothing and never close 
 }
+    
